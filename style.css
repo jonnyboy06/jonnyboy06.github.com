@@ -1,0 +1,35 @@
+body{
+	background-image:url('http://farm6.staticflickr.com/5539/9314225289_8d9892f54d_s.jpg');
+	background-size:100%;
+	position:absolute;
+	background-position:center;
+	width:100%;
+	min-height:300px;
+	}
+#Header{
+	background-image:url('http://farm4.staticflickr.com/3793/9317012096_c9b6bc57ec.jpg');
+	background-repeat:no-repeat;
+	background-position:right; 
+	background-color:blue; 
+	width:100%;
+	min-height:85px
+	}
+#left_column{
+    background-image:url('http://farm4.staticflickr.com/3807/9314225261_34d25337ed.jpg');
+	width:30%; 
+	min-height:375px; 
+    text-indent:85px;
+	text-align:right;
+	opacity: 0.6
+	
+   
+	}
+#main_content{ 
+	width:67%; 
+	min-height:400px;
+	 float:right 
+	}
+#footer{
+	width:100%; 
+	min-height:100px; 
+	clear:both}
