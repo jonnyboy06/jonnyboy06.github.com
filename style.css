@@ -9,16 +9,15 @@ body{
 #Header{
 	background-image:url('http://farm4.staticflickr.com/3793/9317012096_c9b6bc57ec.jpg');
 	background-repeat:no-repeat;
-	background-position:right; 
-	background-color:blue; 
+	background-position:right;  
 	width:100%;
 	min-height:85px
 	}
 #left_column{
     background-image:url('http://farm4.staticflickr.com/3807/9314225261_34d25337ed.jpg');
-	width:30%; 
+	width:24%; 
 	min-height:375px; 
-    text-indent:85px;
+    text-indent:15px;
 	text-align:right;
 	opacity: 0.6
 	
@@ -26,10 +25,27 @@ body{
 	}
 #main_content{ 
 	width:67%; 
-	min-height:400px;
+	min-height:200px;
 	 float:right 
 	}
 #footer{
 	width:100%; 
 	min-height:100px; 
-	clear:both}
+	clear:both
+	}
+	h2.pos_right
+	{
+	position:relative;
+	left:20px;
+	bottom:400px;
+	} 
+	div.transbox
+	  {
+	  width:650px;
+	  height:100px;
+	  margin:30px 50px;
+	  background-color:#ff0000;
+	  border:5px solid black;
+	  opacity:0.6;
+	  filter:alpha(opacity=60);
+	}
