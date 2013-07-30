@@ -41,3 +41,13 @@ body{
 	bottom:400px;
 	color:red;
 	}
+	div.transbox
+	  {
+	  width:858px;
+	  height:120px;
+	  margin:30px 50px;
+	  background-color:#ff0000;
+	  border:5px solid black;
+	  opacity:0.9;
+	  filter:alpha(opacity=60);
+	}
