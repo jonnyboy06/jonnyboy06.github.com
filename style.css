@@ -39,12 +39,12 @@ body{
 	left:20px;
 	bottom:400px;
 	} 
-	div.transbox
+	div.transbox3
 	  {
 	  width:858px;
 	  height:100px;
 	  margin:30px 50px;
-	  background-color:#ff0000;
+	  background-color:#f8f8f8;
 	  border:5px solid black;
 	  opacity:0.6;
 	  filter:alpha(opacity=60);
