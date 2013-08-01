@@ -35,9 +35,10 @@ body{
 	}
 	h2.pos_right
 	{
-	position:relative;
-	left:20px;
-	bottom:400px;
+	position:absolute;
+	left:300px;
+	right:100px;
+	bottom:600px;
 	} 
 	div.transbox3
 	  {
