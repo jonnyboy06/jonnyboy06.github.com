@@ -54,9 +54,19 @@ body{
 	div.transbox2
 	  {
 	  width:858px;
-	  height:500px;
+	  height:725px;
 	  margin:30px 50px;
 	  background-color:#ff0000;
+	  border:5px solid black;
+	  opacity:0.9;
+	  filter:alpha(opacity=60);
+	}
+	div.transbox3
+	  {
+	  width:100px;
+	  height:100px;
+	  margin:30px 50px;
+	  background-color:#0000ff;
 	  border:5px solid black;
 	  opacity:0.9;
 	  filter:alpha(opacity=60);
