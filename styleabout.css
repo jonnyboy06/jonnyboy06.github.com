@@ -52,3 +52,13 @@ body{
 	  opacity:0.9;
 	  filter:alpha(opacity=60);
 	}
+	div.transbox4
+	  {
+	  width:858px;
+	  height:900px;
+	  margin:20px 40px;
+	  background-color:#f8f8f8;
+	  border:5px solid black;
+	  opacity:0.9;
+	  filter:alpha(opacity=60);
+	}
