@@ -40,7 +40,8 @@ body{
 		position:absolute;
                 left:300px;
                 right:100px;
-		bottom:25px;
+		bottom:0px;
+		top:100px;
 		}
 	div.transbox3
 	  {
