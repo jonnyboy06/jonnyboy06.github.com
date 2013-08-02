@@ -37,7 +37,7 @@ body{
 		}
 		h2.pos_right
 		{
-		position:absolute;
+		position:relative;
                 left:300px;
                 right:100px;
 		bottom:0px;
